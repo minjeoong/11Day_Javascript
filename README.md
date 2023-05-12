@@ -1,6 +1,7 @@
 # JavaScript_Basic
 
 makeIntro(name, mbti) :
+
 form에 입력한 이름과 MBTI 문자열이 주어졌을 때,
 이름과 Mbti 를 포함해서 문자열로 return.
 
